@@ -126,7 +126,7 @@ ___
 
 ### Further Work 
 
-In your second lab this week we'll be learning more basic python commands and completing more practice exercises.  
+In your second lab this week we'll be learning more basic commands and completing more practice exercises.  
 Feel free to [explore codespaces](https://www.datacamp.com/tutorial/github-codespaces), any intro to [python courses](https://www.w3schools.com/python/), or even [look at using markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) for your notes. (you can look at the source of this page for some basic examples)
 
 
