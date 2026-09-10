@@ -41,10 +41,11 @@
 
   ### Week 11 : Beginnering 17/11/2025
 - [Lab 4.3 TLS Certificates & Basic Fingerprinting](https://github.com/MarkCummins-SETU/Scripting-for-Cybersecurity/blob/main/Lab4/4.3/lab4-3.md)
--->
+
 
   ### Week 12 : Beginnering 24/11/2025
 - CA 2 Mini Recon Toolkit : Assignment Presentations
 
   ### Week 13 : Beginnering 01/12/2025
 - Practical Exam
+-->
