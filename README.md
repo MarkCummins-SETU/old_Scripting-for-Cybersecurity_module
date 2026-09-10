@@ -2,8 +2,9 @@
 
 ## This repository will have all of the lab notes for each week of the course.  
 
-### Week 2 : Beginning 15/09/2025
+### Week 2 : Beginning 14/09/2026
 - [Lab 1: Setting Up Your Lab Environment](https://github.com/MarkCummins-SETU/Scripting-for-Cybersecurity/blob/main/Lab1/lab1.md)
+<!--
 - [Lab 2-1: Introduction to Python](https://github.com/MarkCummins-SETU/Scripting-for-Cybersecurity/blob/main/Lab2/2.1/lab2-1.md)
 
 ### Week 3 : Beginning 22/09/2025  
@@ -40,7 +41,7 @@
 
   ### Week 11 : Beginnering 17/11/2025
 - [Lab 4.3 TLS Certificates & Basic Fingerprinting](https://github.com/MarkCummins-SETU/Scripting-for-Cybersecurity/blob/main/Lab4/4.3/lab4-3.md)
-
+-->
 
   ### Week 12 : Beginnering 24/11/2025
 - CA 2 Mini Recon Toolkit : Assignment Presentations
